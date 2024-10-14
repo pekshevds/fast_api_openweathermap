@@ -10,4 +10,4 @@ COPY ./main /app/main
 
 EXPOSE 8000
 
-CMD ["python", "-m", "app/main"]
+CMD ["python", "-m", "main"]
